@@ -1,0 +1,10 @@
+D:\VS Project\WordDictionary\WordDictionary\bin\Debug\WordDictionary.exe.config
+D:\VS Project\WordDictionary\WordDictionary\bin\Debug\WordDictionary.exe
+D:\VS Project\WordDictionary\WordDictionary\bin\Debug\WordDictionary.pdb
+D:\VS Project\WordDictionary\WordDictionary\obj\Debug\WordDictionary.csprojAssemblyReference.cache
+D:\VS Project\WordDictionary\WordDictionary\obj\Debug\WordDictionary.Form1.resources
+D:\VS Project\WordDictionary\WordDictionary\obj\Debug\WordDictionary.Properties.Resources.resources
+D:\VS Project\WordDictionary\WordDictionary\obj\Debug\WordDictionary.csproj.GenerateResource.cache
+D:\VS Project\WordDictionary\WordDictionary\obj\Debug\WordDictionary.csproj.CoreCompileInputs.cache
+D:\VS Project\WordDictionary\WordDictionary\obj\Debug\WordDictionary.exe
+D:\VS Project\WordDictionary\WordDictionary\obj\Debug\WordDictionary.pdb
